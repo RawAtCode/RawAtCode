@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rawat</h1>
 <h3 align="center">DSA | WEB DEV</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawatcode&label=Profile%20views&color=0e75b6&style=flat" alt="rawatcode" /> </p>
-
-- 📫 How to reach me **rawatcode@gmail.com**
-
-- ⚡ Fun fact **I write.**
+- Email : **rawatcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawatcode&show_icons=true&locale=en" alt="rawatcode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawatcode&" alt="rawatcode" /></p>
+
